@@ -11,6 +11,9 @@ Run through this 24 hours before the deadline. Then again 2 hours before.
 - [ ] All required fields on the submission form filled
 - [ ] Every sponsor tool/API you used is named explicitly
 - [ ] License file present (MIT is a safe default)
+- [ ] Deadline converted to your own timezone (Devpost shows it in the host's zone)
+- [ ] No secrets in the repo: `.env` is git-ignored, no API keys in code or commit history, `.env.example` instead
+- [ ] Commits fall inside the hackathon window (many rules require new work made during the event)
 
 ## Judging criteria mapping
 Copy the official criteria here and point to where you prove each one.
@@ -31,5 +34,6 @@ Copy the official criteria here and point to where you prove each one.
 - [ ] Screenshots are real, not mockups
 
 ## After submitting
+- [ ] Submission status shows **Submitted**, not draft
 - [ ] Re-open the submission page logged out and check everything renders
 - [ ] Share on LinkedIn / X with the project link
