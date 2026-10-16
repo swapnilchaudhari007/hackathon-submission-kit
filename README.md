@@ -37,4 +37,4 @@ Got a tip that won you a hackathon? Open a PR. Templates in other languages (Hin
 
 ## License
 
-MIT
+[MIT](LICENSE)
